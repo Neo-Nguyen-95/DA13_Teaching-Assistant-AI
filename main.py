@@ -5,10 +5,10 @@ import streamlit as st
 from business import get_knowledge_text, retrieve_relevant_knowledge
 # import faiss
 
-from dotenv import load_dotenv
-import os
-load_dotenv()
-openai_api_key = os.getenv("SECRETE_KEY")
+# from dotenv import load_dotenv
+# import os
+# load_dotenv()
+# openai_api_key = os.getenv("SECRETE_KEY")
 
 #%% SIDER BAR INFOR & SIGN IN
 st.set_page_config(
@@ -35,7 +35,7 @@ with st.sidebar:
     #                                key="API key",
     #                                type="password")
     
-    # openai_api_key = st.secrets["api"]["key"]
+    openai_api_key = st.secrets["api"]["key"]
     
     passcode = st.text_input("Nhập code để sử dụng phần mềm",
                              type="password")

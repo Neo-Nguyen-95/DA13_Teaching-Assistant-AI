@@ -1,15 +1,16 @@
 #%% LIB
 from openai import OpenAI
 import numpy as np
-from dotenv import load_dotenv
-import os
+# from dotenv import load_dotenv
+# import os
 import faiss
+import streamlit as st
 
-load_dotenv()
+# load_dotenv()
 
 # OPEN AI API key
-OPENAI_API_KEY = os.getenv("SECRETE_KEY")
-# OPENAI_API_KEY = st.secrets["api"]["key"]
+# OPENAI_API_KEY = os.getenv("SECRETE_KEY")
+OPENAI_API_KEY = st.secrets["api"]["key"]
 
 #%% GET KNOWLEDGE TEXT
 def get_knowledge_text():
