@@ -1,0 +1,117 @@
+Dưới đây là danh sách câu hỏi và câu trả lời được viết lại một cách rõ ràng, dễ hiểu và đầy đủ hơn:
+
+---
+
+### **Câu 1:**  
+**Câu hỏi:** Từ thí nghiệm đặt vật trước gương và quan sát ảnh của nó trong gương, em hãy cho biết ảnh của vật tạo bởi gương phẳng có hứng được trên màn chắn không? Điều đó cho thấy ảnh của vật tạo bởi gương phẳng có tính chất gì?  
+**Trả lời:**  
+- Ảnh của vật tạo bởi gương phẳng không hứng được trên màn chắn.  
+- Điều đó chứng tỏ ảnh của vật tạo bởi gương phẳng là ảnh ảo.  
+
+---
+
+### **Câu 2:**  
+**Câu hỏi:** Trong thí nghiệm 2, vì sao cần thay gương phẳng bằng tấm kính trong suốt?  
+**Trả lời:**  
+- Tấm kính trong phản xạ một phần ánh sáng giúp ta quan sát được ảnh. Đồng thời, nó cho ánh sáng đi qua giúp ta nhìn thấy vật thật đặt sau kính, nhờ đó dễ dàng quan sát và đo khoảng cách từ ảnh đến gương.  
+
+---
+
+### **Câu 3:**  
+**Câu hỏi:** Khoảng cách từ ảnh đến gương phẳng so với khoảng cách từ vật đến gương như thế nào?  
+**Trả lời:**  
+- Khoảng cách từ ảnh đến gương phẳng bằng khoảng cách từ vật đến gương.  
+
+---
+
+### **Câu 4:**  
+**Câu hỏi:** Độ lớn của ảnh tạo bởi gương phẳng so với độ lớn của vật như thế nào?  
+**Trả lời:**  
+- Độ lớn của ảnh tạo bởi gương phẳng bằng độ lớn của vật.  
+
+---
+
+### **Câu 5:**  
+**Câu hỏi:** Chữ "AMBULANCE" trên đầu xe cứu thương được viết ngược từ phải sang trái nhằm mục đích gì?  
+**Trả lời:**  
+- Chữ "AMBULANCE" được viết ngược để khi người lái xe phía trước nhìn vào gương chiếu hậu, họ có thể đọc đúng theo chiều xuôi. Nhờ đó, họ dễ dàng nhận ra xe cứu thương và nhanh chóng nhường đường.  
+
+---
+
+### **Câu 6:**  
+**Câu hỏi:** Ảnh của chữ "TÌM" trong gương phẳng là gì?  
+**Trả lời:**  
+- Ảnh của chữ "TÌM" trong gương phẳng là "MÍT".  
+
+---
+
+### **Câu 7:**  
+**Câu hỏi:** Bạn A đứng cách bức tường 4m, trên tường treo một tấm gương phẳng. Nếu bạn A nhìn thấy ảnh của mình trong gương, bạn A phải di chuyển như thế nào để cách ảnh của mình 2m?  
+**Trả lời:**  
+- Vì khoảng cách từ ảnh đến gương bằng khoảng cách từ vật đến gương, để khoảng cách từ bạn A đến ảnh của mình là 2m, bạn A phải đứng cách gương 1m.  
+- Bạn A cần di chuyển tiến về phía bức tường một khoảng: **4m - 1m = 3m**.  
+
+---
+
+### **Câu 8:**  
+**Câu hỏi:** Nêu một số ứng dụng về ảnh của gương phẳng trong thực tế.  
+**Trả lời:**  
+- Mặt hồ, dòng sông trong xanh phản chiếu cảnh vật, không chỉ mang giá trị thẩm mỹ mà còn giúp điều hòa khí hậu, tạo môi trường trong lành.  
+- Gương phẳng được sử dụng trong trang trí nội thất, giúp không gian trở nên rộng rãi hơn.  
+- Các biển báo giao thông và vạch phân làn thường sử dụng sơn phản quang để giúp người tham gia giao thông dễ dàng quan sát vào ban đêm.  
+
+---
+
+### **Câu 9:**  
+**Câu hỏi:** Nêu mục đích sử dụng và cấu tạo của kính tiềm vọng.  
+**Trả lời:**  
+- **Mục đích:** Kính tiềm vọng giúp quan sát các vật thể bị che khuất.  
+- **Cấu tạo:** Gồm hai gương phẳng đặt nghiêng 45° so với phương ngang, có bề mặt phản xạ hướng vào nhau.  
+
+---
+
+### **Câu 10:**  
+**Câu hỏi:** Nêu nguyên lý hoạt động của kính tiềm vọng.  
+**Trả lời:**  
+- Ánh sáng từ vật đi đến gương phẳng thứ nhất và phản xạ, tạo ra ảnh ảo đầu tiên.  
+- Ảnh ảo này lại trở thành vật đối với gương phẳng thứ hai.  
+- Sau khi phản xạ qua gương thứ hai, ảnh cuối cùng cùng chiều với vật và có độ lớn bằng vật, giúp người quan sát nhìn thấy vật bị che khuất.  
+
+---
+
+### **Câu 11:**  
+**Câu hỏi:** Vẽ sơ đồ cấu tạo của kính tiềm vọng.  
+**Trả lời:** *(Học sinh tự vẽ sơ đồ, gồm hai gương đặt nghiêng 45° và đường truyền tia sáng.)*  
+
+---
+
+### **Câu 12:**  
+**Câu hỏi:** Hãy nghĩ cách làm thí nghiệm để kiểm tra xem ảnh của vật qua gương phẳng có thu được trên màn chắn không.  
+**Trả lời:**  
+**Thí nghiệm:**  
+- Đặt một gương phẳng thẳng đứng trên mặt bàn.  
+- Đặt một viên phấn trước gương.  
+- Đưa một tấm bìa (màn chắn) ra sau gương.  
+- Kết quả: Ảnh của viên phấn không xuất hiện trên màn chắn.  
+**Kết luận:** Ảnh của vật qua gương phẳng là ảnh ảo.  
+
+---
+
+### **Câu 13:**  
+**Câu hỏi:** Hãy đề xuất phương án tiến hành thí nghiệm để kiểm tra dự đoán về khoảng cách từ ảnh, vật tới gương và độ lớn của ảnh so với vật.  
+**Trả lời:**  
+- Đặt viên phấn 1 trước tấm kính (không đặt sát vào kính).  
+- Di chuyển viên phấn 2 ra phía sau tấm kính sao cho nó trùng với ảnh của viên phấn 1.  
+- So sánh kích thước của hai viên phấn và đo khoảng cách từ chúng đến gương.  
+
+---
+
+### **Câu 14:**  
+**Câu hỏi:** Nêu kết quả thí nghiệm kiểm tra dự đoán về khoảng cách từ ảnh, vật tới gương và độ lớn của ảnh so với vật.  
+**Trả lời:**  
+- Độ lớn của viên phấn 1 bằng độ lớn của viên phấn 2.  
+- Khoảng cách từ hai viên phấn đến tấm kính bằng nhau.  
+**Kết luận:**  
+- Độ lớn của ảnh bằng độ lớn của vật.  
+- Khoảng cách từ ảnh đến gương bằng khoảng cách từ vật đến gương.  
+**⇒ Dự đoán ban đầu là đúng.**  
