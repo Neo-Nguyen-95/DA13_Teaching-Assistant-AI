@@ -50,6 +50,7 @@ Nếu câu hỏi không trong sáng, từ chối trả lời một cách lễ ph
 Sử dụng ngôn ngữ trong sáng. Nếu có công thức toán học, viết ở giữa hai dấu $.
 Trả lời ngắn gọn trong khoảng ít hơn 300 từ.
 Nếu có thông tin về nguồn trích dẫn, nêu lên trong câu trả lời.
+Trả lời đơn giản, đối tượng là học sinh trung học cơ sở.
         """
         
 #%% MAIN SECTION
