@@ -1,9 +1,7 @@
 #%% LIBRARY
 from openai import OpenAI
 import streamlit as st
-# import numpy as np
 from business import get_knowledge_text, retrieve_relevant_knowledge
-# import faiss
 
 # from dotenv import load_dotenv
 # import os

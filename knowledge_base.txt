@@ -1,4 +1,68 @@
-Dưới đây là bài viết hoàn chỉnh và chi tiết về chủ đề ảnh của vật qua gương phẳng:
+
+
+Ánh sáng là một dạng của năng lượng.  
+Ánh sáng không thể thiếu trong cuộc sống của con người và các vật sống khác trên Trái Đất. Việc tìm hiểu ánh sáng sẽ giúp em giải thích được vì sao ánh sáng lại có vai trò quan trọng như vậy.  
+
+Khi chưa bật đèn, kim điện kế chỉ số 0, chứng tỏ pin quang điện không phát điện.  
+Khi bật đèn, kim điện kế bị lệch đi, chứng tỏ pin quang điện đã nhận được năng lượng ánh sáng của đèn để chuyển hóa thành điện năng, làm lệch kim điện kế.
+
+Nguồn: Bài 15: NĂNG LƯỢNG ÁNH SÁNG. TIA SÁNG, VÙNG TỐI, Trang 72-73, sách Khoa học tự nhiên 7, kết nối tri thức với cuộc sống.
+
+---
+
+**Chùm sáng và tia sáng**  
+
+### 1. Chùm sáng  
+Ánh sáng phát ra từ nguồn sáng và truyền trong không gian tạo thành những chùm sáng.  
+Tùy thuộc vào nguồn sáng, chùm sáng có hình dạng và kích thước khác nhau.  
+
+Hình 15.3 mô tả ba loại chùm sáng thường gặp:  
+- **Chùm sáng song song**  
+- **Chùm sáng hội tụ**  
+- **Chùm sáng phân kỳ**  
+
+Quy ước vẽ chùm sáng bằng hai đường thẳng giới hạn chùm sáng, có mũi tên chỉ chiều truyền của ánh sáng (Hình 15.4).  
+- **Chùm sáng song song**  
+- **Chùm sáng hội tụ**  
+- **Chùm sáng phân kỳ**  
+
+Nguồn: Bài 15: NĂNG LƯỢNG ÁNH SÁNG. TIA SÁNG, VÙNG TỐI, Trang 73-74, sách Khoa học tự nhiên 7, kết nối tri thức với cuộc sống.
+
+---
+### **Tia sáng**  
+
+Chúng ta đã biết ánh sáng truyền theo đường thẳng.  
+
+Quy ước biểu diễn đường truyền của ánh sáng bằng một đường thẳng có mũi tên chỉ chiều truyền của ánh sáng, gọi là **tia sáng**.  
+
+Đường thẳng có hướng **SM** trong Hình 15.5 biểu diễn một tia sáng.
+
+Nguồn: Bài 15: NĂNG LƯỢNG ÁNH SÁNG. TIA SÁNG, VÙNG TỐI, Trang 74, sách Khoa học tự nhiên 7, kết nối tri thức với cuộc sống.
+
+---
+
+### **1. Vùng tối do nguồn sáng hẹp**  
+
+Dùng loại **đèn pin nhỏ** chỉ có **một bóng đèn LED nhỏ** để tạo ra nguồn sáng hẹp. Đặt trước đèn một **quả bóng nhỏ** làm vật cản sáng.  
+
+#### **Quan sát thí nghiệm (Hình 15.8)**  
+- **Phía sau vật cản sáng có vùng hoàn toàn không nhận được ánh sáng từ nguồn sáng truyền tới.**  
+- Vùng này được gọi là **vùng tối**.  
+
+
+### **2. Vùng tối do nguồn sáng rộng**  
+
+Thực hiện lại thí nghiệm trên nhưng sử dụng **đèn LED 20W** làm **nguồn sáng rộng**.  
+
+#### **Quan sát thí nghiệm (Hình 15.9)**  
+- **Phía sau vật cản sáng xuất hiện hai vùng:**  
+  1. **Vùng tối hoàn toàn**: Không nhận được ánh sáng từ nguồn sáng.  
+  2. **Vùng tối không hoàn toàn**: Chỉ nhận được một phần ánh sáng từ nguồn sáng truyền tới.  
+
+Điều này lý giải vì sao khi dùng bóng đèn dây tóc (nguồn sáng hẹp), bóng của vật sẽ **rõ nét**, còn khi dùng bóng đèn ống (nguồn sáng rộng), bóng của vật sẽ **mờ hơn** do có vùng tối không hoàn toàn.
+
+Nguồn: Bài 15: NĂNG LƯỢNG ÁNH SÁNG. TIA SÁNG, VÙNG TỐI, Trang 77, sách Khoa học tự nhiên 7, kết nối tri thức với cuộc sống.
+
 
 ---
 

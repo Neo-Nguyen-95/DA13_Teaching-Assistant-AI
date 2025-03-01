@@ -1,34 +1,45 @@
 #%% LIB
 from openai import OpenAI
 import numpy as np
+import faiss
+
+
+# FOR OFFLINE MODEL
 # from dotenv import load_dotenv
 # import os
-import faiss
-import streamlit as st
-
 # load_dotenv()
-
-# OPEN AI API key
 # OPENAI_API_KEY = os.getenv("SECRETE_KEY")
+
+# FOR ONLINE MODEL
+import streamlit as st
 OPENAI_API_KEY = st.secrets["api"]["key"]
 
 #%% GET KNOWLEDGE TEXT
-def get_knowledge_text():
-    with open("knowledge_base.txt", "r") as file:
-        kb_content = file.read()
-        
-    with open("knowledge_qna.txt", "r") as file:
-        qa_content = file.read()
-        
-    with open('knowledge_chatbot_info.txt', 'r') as file:
-        info_content = file.read()
-        
-    # Split text into chunks
-    knowledge_text = kb_content.split('\n')
-    knowledge_text.extend(qa_content.replace('\n', '').split('---'))
-    knowledge_text.append(info_content)
+def get_clean_text(file_path):
+    with open(file_path, "r") as file:
+        content = file.read()
     
-    return knowledge_text
+    return (content.replace("*", "").replace("#", "").replace("\n", "")
+            .replace("  ", " ")
+            .strip()
+            .split('---')
+            )
+
+# get_clean_text("knowledge_base.txt")  # Test function
+
+def get_knowledge_text():
+    file_list = ["knowledge_base.txt", 
+                 "knowledge_qna.txt", 
+                 "knowledge_chatbot_info.txt"]
+    
+    result = []
+    for file_path in file_list:
+        result.extend(get_clean_text(file_path))
+    
+    return result
+    
+# get_knowledge_text()  # Test function
+   
 
 #%% EMBEDDING
 client = OpenAI(api_key=OPENAI_API_KEY)
