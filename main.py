@@ -35,7 +35,7 @@ with st.sidebar:
     
     openai_api_key = st.secrets["api"]["key"]
     
-    passcode = st.text_input("Nhập code để sử dụng phần mềm",
+    passcode = st.text_input("Nhập ngày sinh nhật của bạn",
                              type="password")
     
     # passcode_system = st.secrets["passcode"]["key"]
