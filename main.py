@@ -52,7 +52,7 @@ Sử dụng ngôn ngữ trong sáng. Nếu có công thức toán học, viết 
 Trả lời ngắn gọn trong khoảng ít hơn 300 từ.
 Nếu có thông tin về nguồn trích dẫn, nêu lên trong câu trả lời.
 Trả lời đơn giản, đối tượng là học sinh trung học cơ sở.
-        """
+"""
         
 #%% MAIN SECTION
 st.title("Neon AI")
@@ -99,7 +99,7 @@ if prompt := st.chat_input():  # Chat box
         knowledge_text,
         "knowledge_index.faiss",
         prompt,
-        top_k=3
+        top_k=2
         )
     
     
