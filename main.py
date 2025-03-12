@@ -101,8 +101,8 @@ if prompt := st.chat_input():  # Chat box
         prompt,
         top_k=3
         )
-    
-    
+
+
     st.session_state.messages.append(
         {"role": "system", "content": f"""
         Tham khảo thêm kiến thức từ {relevant_knowledge}
@@ -117,7 +117,7 @@ if prompt := st.chat_input():  # Chat box
 
     client = OpenAI(api_key=openai_api_key)
     
-    st.session_state.messages
+    # st.session_state.messages
     
     # Get response from API & store it in session state
     response = client.chat.completions.create(
